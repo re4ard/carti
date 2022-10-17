@@ -1,37 +1,35 @@
 [
-    
-    {
-      "id": 10,
-      "name": "vasline",
-      "username": "072785108257",
-      "email": "vasile",
-      "address": {
-        "street": "Kattie Turnpike",
-        "suite": "Suite 198",
-        "city": "Lebsackbury",
-        "zipcode": "31428-2261",
-        "geo": {
-          "lat": "-38.2386",
-          "lng": "57.2232"
-        }
-    
+  {
+    "id": 10,
+    "name": "vasline",
+    "username": "072785108257",
+    "email": "vasile",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
+      }
     }
-         {
-      "id": 10,
-      "name": "sasline",
-      "username": "072785108257",
-      "email": "vasile",
-      "address": {
-        "street": "Kattie Turnpike",
-        "suite": "Suite 198",
-        "city": "Lebsackbury",
-        "zipcode": "31428-2261",
-        "geo": {
-          "lat": "-38.2386",
-          "lng": "57.2232"
-        }
-    
+  
+  },
+       {
+    "id": 10,
+    "name": "sasline",
+    "username": "072785108257",
+    "email": "vasile",
+    "address": {
+      "street": "Kattie Turnpike",
+      "suite": "Suite 198",
+      "city": "Lebsackbury",
+      "zipcode": "31428-2261",
+      "geo": {
+        "lat": "-38.2386",
+        "lng": "57.2232"
     }
+  }
 }
-          ]
-     
+]
